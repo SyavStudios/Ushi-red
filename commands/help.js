@@ -34,7 +34,7 @@ module.exports = {
 
       const embed = new EmbedBuilder()
         .setColor('#0099ff')
-        .setTitle('👋 Welcome Bot Help')
+        .setTitle('👋 Bot Help')
         .setDescription('Here are the available commands:\n\n' +
           '**/welcomemessage :** set up welcome message.\n' +
           '**/setupwelcome :** Set up the welcome Bot for your server.\n' +
