@@ -1,7 +1,7 @@
 const status = "AUTOMATIC";
 const botName = "💗 WElCOME BOT";
-const text = "GlaceYT";
-const version = "Latest@ v1.0"; 
+const text = "Laplace";
+const version = "Latest@ v0.1"; 
 const startTime = Date.now();
 
 function printWatermark() {
